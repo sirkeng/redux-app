@@ -1,0 +1,29 @@
+{
+  "name": "reduxApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://SirKenG@bitbucket.org/SirKenG/reduxapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/SirKenG/reduxapp#readme",
+  "devDependencies": {
+    "webpack": "^2.1.0-beta.22"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "express": "^4.16.2",
+    "redux": "^3.7.2"
+  }
+}
